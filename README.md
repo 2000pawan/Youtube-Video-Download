@@ -42,7 +42,7 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 
 ### 1. Clone the repository
     ```bash
-    git clone https://github.com/2000pawan/Youtube-Music-Download-.git
+    git clone https://github.com/2000pawan/Youtube-Video-Download.git
     cd Video_Download.py
 
 ### 2. Install dependencies
