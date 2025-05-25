@@ -1,5 +1,3 @@
-# Creating the README.md file content for the YouTube Video Downloader project
-readme_content = """
 # 🎥 YouTube Video Downloader
 
 A simple and user-friendly desktop GUI application built with Python Tkinter and yt-dlp to download high-quality video and audio from YouTube links.
