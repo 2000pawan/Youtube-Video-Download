@@ -1,12 +1,12 @@
-# 🎵 YouTube Music Downloader
+# 🎵 YouTube Video Downloader
 
-A simple and user-friendly desktop GUI application built with **Python Tkinter** and **yt-dlp** to download high-quality MP3 audio from YouTube links.
+A simple and user-friendly desktop GUI application built with **Python Tkinter** and **yt-dlp** to download high-quality MP4 Video with clear audio from YouTube links.
 
 ---
 
 ## 🚀 Features
 
-- 🎯 Download best-quality audio (MP3 format) from any valid YouTube video URL.
+- 🎯 Download best-quality video with clear audio (MP4 format) from any valid YouTube video URL.
 - 📁 Browse and select your desired download directory.
 - ✅ Easy-to-use interface with message alerts.
 - 🔁 Option to clear/reset inputs.
@@ -17,11 +17,11 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 
 ## 📂 Options to Use
 
-### ✅ Option 1: Use the Standalone Executable (`Music_Download.exe`)
+### ✅ Option 1: Use the Standalone Executable (`Video_Download.exe`)
 
 > No Python installation needed! Just download and run the file.
 
-1. [Download `Music_Download.exe`](./Music_Download.exe)
+1. [Download `Video_Download.exe`](./Video_Download.exe)
 2. Double-click to launch the YouTube Music Downloader.
 3. Paste the YouTube link, choose a folder, and hit **Download Music**.
 
@@ -43,7 +43,7 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 ### 1. Clone the repository
     ```bash
     git clone https://github.com/2000pawan/Youtube-Music-Download-.git
-    cd youtube-music-downloader
+    cd youtube-video-downloader
 
 ### 2. Install dependencies
 
@@ -58,15 +58,15 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 ## 🧠 Usage
 Run the script:
 
-python youtube_music_downloader.py
+python video_downloader.py
 
-Paste a YouTube music video URL.
+Paste a YouTube video URL.
 
 Click Browse and select the destination folder.
 
 Click Download Music.
 
-Enjoy your music saved in MP3 format!
+Enjoy your video saved!
 
 ## 🖥️ GUI Screenshot
 ![GUI Calendar Screenshot](screenshot.png)
