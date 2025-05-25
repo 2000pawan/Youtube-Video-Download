@@ -43,7 +43,7 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 ### 1. Clone the repository
     ```bash
     git clone https://github.com/2000pawan/Youtube-Music-Download-.git
-    cd youtube-video-downloader
+    cd Video_Download.py
 
 ### 2. Install dependencies
 
@@ -58,7 +58,7 @@ A simple and user-friendly desktop GUI application built with **Python Tkinter**
 ## 🧠 Usage
 Run the script:
 
-python video_downloader.py
+python Video_Download.py
 
 Paste a YouTube video URL.
 
